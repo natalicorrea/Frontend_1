@@ -10,8 +10,21 @@ h1,h2 {
     text-transform: uppercase;
     color: #005677;
     background-color: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    letter-spacing: 5px;
+    font-size: 35px;
 }
-   
+
+ul{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: #000000;
+}
+
+span.datos{
+    font-style: italic;
+}
 
 span{
     font-weight: bold;
@@ -21,6 +34,8 @@ footer{
     background-color: #005677;
     font-family: 'Times New Roman', Times, serif;
     color: #FFFFFF;
-    
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
     margin-left: 12px;
 }
