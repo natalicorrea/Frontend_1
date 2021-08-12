@@ -1,12 +1,26 @@
 header{
-    background-color: #e5e5e5;
     text-align: center;
 }
 
-h1 {
-    background-color: gray;
+.logo{
+    background-color: #e5e5e5;
 }
+
+h1,h2 {
+    text-transform: uppercase;
+    color: #005677;
+    background-color: #C4C4C4;
+}
+   
 
 span{
     font-weight: bold;
+}
+
+footer{
+    background-color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    color: #FFFFFF;
+    
+    margin-left: 12px;
 }
